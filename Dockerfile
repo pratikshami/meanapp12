@@ -18,6 +18,7 @@ ADD jshint-report jshint-report
 ADD lib lib
 ADD coverage coverage
 ADD target target
+ADD mocha-report mocha-report
 ADD routes routes
 ADD gatling gatling
 ADD tests tests
